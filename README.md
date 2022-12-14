@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pd5wl
-- 👀 I’m interested in IT, Electronics, Modetrain, HAM Radio
+- 👀 I’m interested in IT, Electronics, Modetrains, HAM Radio
 - 🌱 I’m currently learning Python
 
 <!---
